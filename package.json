@@ -1,0 +1,15 @@
+{
+  "name": "kakuro",
+  "version": "1.0.0",
+  "description": "A simple Kakuro entry and hinter page",
+  "main": "kakuro.html",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^5.5.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tickelmon5ter",
+  "license": "ISC"
+}
